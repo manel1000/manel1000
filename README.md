@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 , it Manel Nadir ##
 
-<!--
-**manel1000/manel1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a student passionate about improving my skills in software development and cybersecurity. I'm always eager to learn and grow in these fields, and I love taking on new challenges to better myself.
 
-Here are some ideas to get you started:
+## 🚀 About Me ##
+I’m a student with a deep interest in **cybersecurity**. My goal is to continuously improve my skills and become proficient in creating secure systems and applications. I’m currently focusing on improving my knowledge of programming and cybersecurity concepts. I’m always open to learning more and experimenting with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my coding skills and learning more about cybersecurity.
+- 🌱 I’m learning about ethical hacking, penetration testing, and network security.
+- 💬 Feel free to reach out to me about **cybersecurity**, **Java**, or **Python**.
+- 📫 You can contact me at: manelnad018@gmail.com
+- ⚡ Fun fact: I love learning about how things work and exploring the world !
+
+## 🛠 Skills & Technologies
+- **Languages**: Java, Python
+- **still have a lot to improve **
+ 
+## 📚 Projects
+still working on it 
+
+
+
