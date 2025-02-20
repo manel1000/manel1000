@@ -1,4 +1,4 @@
-## Hi there 👋 , it Manel Nadir ##
+## Hi there 👋 , it's Manel Nadir ##
 
 Welcome to my GitHub profile! I'm a student passionate about improving my skills in software development and cybersecurity. I'm always eager to learn and grow in these fields, and I love taking on new challenges to better myself.
 
